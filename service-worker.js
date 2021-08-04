@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/CLOUDS_startup/precache-manifest.4b4fb0e24218d1181bae1c853f6861a2.js"
+  "/CLOUDS_startup/precache-manifest.59f5aebeb38c824a036acfad20e1baab.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bootstrap_startup"});
