@@ -5,3 +5,7 @@ CLOUDS_startup is a branding page for the concept I have for a machine learning 
 
 Built with:
 Vue, Vuex, Vue-Router, GSAP, and Bootstrap 5
+
+
+Live Preview: 
+https://ndenys650.github.io/CLOUDS_startup/
